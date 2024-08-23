@@ -1,7 +1,28 @@
-## Hi there 👋
+<h1>Hello there! I'm Christian!
+
+<h2>👨‍💻 IT Projects:</h2>
+
+- [Azure Compute and Networking](https://github.com/ccollins-21/LABURL)
+
+<h2>📄 Certifications</h2>
+
+- [Google IT Support Professional Certificate](https://coursera.org/share/4bf5591134eedc75ec4f1258cb7285ba)
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Azure Compute and Networking](https://www.youtube.com/watch?)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ITwithChristian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ChristianCollins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://www.youtube.com/channel/UCuNGZFR82foJC8YcQS8UAdQ
+[linkedin]: https://www.linkedin.com/in/christian-collins-96363860/
 
 <!--
-**ccollins-21/ccollins-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
