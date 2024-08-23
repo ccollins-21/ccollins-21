@@ -8,7 +8,7 @@
 
 - [Google IT Support Professional Certificate](https://coursera.org/share/4bf5591134eedc75ec4f1258cb7285ba)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [Azure Compute and Networking](https://www.youtube.com/watch?)
 
