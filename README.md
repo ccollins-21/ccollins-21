@@ -10,7 +10,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Azure Compute and Networking](https://www.youtube.com/watch?)
+- [Azure Compute and Networking](https://www.youtube.com/watch?v=lrr9-Wq4bP8)
 
 
 <h2> 🤳 Connect with me:</h2>
