@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- [Azure Compute and Networking](https://github.com/ccollins-21/LABURL)
+- [Azure Compute and Networking](https://github.com/ccollins-21/AzureCompute-Netowrking)
 
 <h2>📄 Certifications</h2>
 
