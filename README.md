@@ -1,9 +1,11 @@
-<h1>Hello there! I'm Christian!
+<h1>Hello there! I'm Christian, an IT Specialist!
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- [Azure Compute and Networking](https://github.com/ccollins-21/AzureCompute-Netowrking)
-
+- Microsoft Azure
+  -  [Azure Compute and Networking](https://github.com/ccollins-21/AzureCompute-Netowrking)
+- osTicket (Help Desk Ticketing System)
+  -  [osTicket: Prerequisites and Installation](https://github.com/ccollins-21/osTicket-Prerequisites-and-Installation/blob/main/README.md)
 <h2>📄 Certifications</h2>
 
 - [Google IT Support Professional Certificate](https://coursera.org/share/4bf5591134eedc75ec4f1258cb7285ba)
