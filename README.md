@@ -7,6 +7,7 @@
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/ccollins-21/osTicket-Prerequisites-and-Installation)
   -  [osTicket: Post Installation Configuration](https://github.com/ccollins-21/osTicket-Post-Installation-Configuration)
+  -  [osTicket: Creating and Working Tickets](https://github.com/ccollins-21/osTicket-Creating-and-Working-Tickets)
 <h2>📄 Certifications</h2>
 
 - [Google IT Support Professional Certificate](https://coursera.org/share/4bf5591134eedc75ec4f1258cb7285ba)
