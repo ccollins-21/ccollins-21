@@ -12,7 +12,7 @@
 
 - [Google IT Support Professional Certificate](https://coursera.org/share/4bf5591134eedc75ec4f1258cb7285ba)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/e8ec96bd0a456e03d061016203e93080)
-- CourseCareers IT student
+- CourseCareers Information Technology student
 
 <h2>📺 YouTube Videos</h2>
 
