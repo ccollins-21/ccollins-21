@@ -19,7 +19,7 @@
 
 - [How to Setup Virtual Machines and Monitor Network Traffic | Microsoft Azure](https://www.youtube.com/watch?v=lrr9-Wq4bP8)
 - [How to Install, Configure, and Use a Help Desk Ticketing System From Scratch](https://youtu.be/aYji5ssTIKU)
-- [How to Setup and Use a VPN | ProtonVPN](https://youtu.be/Jwpo0GfadQ)
+- [How to Setup and Use a VPN | ProtonVPN](https://youtu.be/_Jwpo0GfadQ)
 
 <h2> 🤳 Connect with me:</h2>
 
