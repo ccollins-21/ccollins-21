@@ -3,7 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - Microsoft Azure
-  -  [Azure Compute and Networking](https://github.com/ccollins-21/AzureCompute-Netowrking)
+  -  [Monitioring Network Traffic with Azure VMs](https://github.com/ccollins-21/AzureCompute-Netowrking)
+  -  [Setup and Use a VPN in Azure](https://github.com/ccollins-21/How-to-Setup-and-Use-a-VPN-within-Azure)
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/ccollins-21/osTicket-Prerequisites-and-Installation)
   -  [osTicket: Post Installation Configuration](https://github.com/ccollins-21/osTicket-Post-Installation-Configuration)
@@ -17,7 +18,8 @@
 <h2>📺 YouTube Videos</h2>
 
 - [How to Setup Virtual Machines and Monitor Network Traffic | Microsoft Azure](https://www.youtube.com/watch?v=lrr9-Wq4bP8)
-
+- [How to Install, Configure, and Use a Help Desk Ticketing System From Scratch](https://youtu.be/aYji5ssTIKU)
+- [How to Setup and Use a VPN | ProtonVPN](https://youtu.be/Jwpo0GfadQ)
 
 <h2> 🤳 Connect with me:</h2>
 
