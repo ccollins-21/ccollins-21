@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - Microsoft Azure
+  -  [Active Directory: Preparing Infrastructure in Azure](https://github.com/ccollins-21/Preparing-Active-Directory-Infrastructure-in-Azure)
   -  [Monitioring Network Traffic with Azure VMs](https://github.com/ccollins-21/AzureCompute-Netowrking)
   -  [Setup and Use a VPN in Azure](https://github.com/ccollins-21/How-to-Setup-and-Use-a-VPN-within-Azure)
 - osTicket (Help Desk Ticketing System)
