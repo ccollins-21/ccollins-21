@@ -5,9 +5,9 @@
 - **Microsoft Azure**
   -  [Monitioring Network Traffic with Azure VMs](https://github.com/ccollins-21/AzureCompute-Netowrking)
   -  [Setup and Use a VPN in Azure](https://github.com/ccollins-21/How-to-Setup-and-Use-a-VPN-within-Azure)
-  - **Active Directory**
-      - [Active Directory: Preparing Infrastructure in Azure](https://github.com/ccollins-21/Preparing-Active-Directory-Infrastructure-in-Azure)
-      - [Active Directory: Deploying Active Directory in Azure](https://github.com/ccollins-21/Active-Directory-Deploying-Active-Directory)
+- **Active Directory**
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/ccollins-21/Preparing-Active-Directory-Infrastructure-in-Azure)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/ccollins-21/Active-Directory-Deploying-Active-Directory)
 - **osTicket (Help Desk Ticketing System)**
   -  [osTicket: Prerequisites and Installation](https://github.com/ccollins-21/osTicket-Prerequisites-and-Installation)
   -  [osTicket: Post Installation Configuration](https://github.com/ccollins-21/osTicket-Post-Installation-Configuration)
