@@ -26,10 +26,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="ITwithChristian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="ITwithChristian | YouTube" width="22px" src="https://youtube.com/playlist?list=PLjIqkBYhErF4dTDuW2G5QvWicA69bdZii&si=sgmMRBgBH47VoJP7" />][youtube]
 [<img align="left" alt="ChristianCollins | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/@ITwithChristian
+[youtube]: https://youtube.com/playlist?list=PLjIqkBYhErF4dTDuW2G5QvWicA69bdZii&si=sgmMRBgBH47VoJP7
 [linkedin]: https://www.linkedin.com/in/christian-collins-96363860/
 
 <!--
