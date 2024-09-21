@@ -8,6 +8,7 @@
 - Active Directory
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/ccollins-21/Preparing-Active-Directory-Infrastructure-in-Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/ccollins-21/Active-Directory-Deploying-Active-Directory)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/ccollins-21/Active-Directory-Creating-Users-Group-Policy-and-Managing-Accounts)
 - osTicket (Help Desk Ticketing System)
   -  [osTicket: Prerequisites and Installation](https://github.com/ccollins-21/osTicket-Prerequisites-and-Installation)
   -  [osTicket: Post Installation Configuration](https://github.com/ccollins-21/osTicket-Post-Installation-Configuration)
@@ -23,6 +24,7 @@
 - [How to Setup Virtual Machines and Monitor Network Traffic | Microsoft Azure](https://www.youtube.com/watch?v=lrr9-Wq4bP8)
 - [How to Install, Configure, and Use a Help Desk Ticketing System From Scratch](https://youtu.be/aYji5ssTIKU)
 - [How to Setup and Use a VPN | ProtonVPN](https://youtu.be/_Jwpo0GfadQ)
+- [Install, Deploy, and Use Microsoft Active Directory](https://youtu.be/Zrb_DDrI_p4)
 
 <h2> 🤳 Connect with me:</h2>
 
