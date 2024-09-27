@@ -1,4 +1,4 @@
-<h1>Hello there! I'm Christian, an IT Specialist!
+<h1>Hello there! I'm Christian, an IT Professional!
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
