@@ -15,7 +15,7 @@
   -  [osTicket: Creating and Working Tickets](https://github.com/ccollins-21/osTicket-Creating-and-Working-Tickets)
 <h2>📄 Certifications</h2>
 
-- [CourseCareers Information Technology Student](https://coursecareers.com/courses/explore/it) *(Completion Expected: Oct. 2024)*
+- [CourseCareers Information Technology Certificate](https://i.imgur.com/UGS9jnl.png)
 - [Google IT Support Professional Certificate](https://coursera.org/share/4bf5591134eedc75ec4f1258cb7285ba)
 - [IT Support Technical Skills Helpdesk Certificate](https://www.udemy.com/certificate/UC-74021f93-3022-4526-8f0c-7e21f78d4c30/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/e8ec96bd0a456e03d061016203e93080)
