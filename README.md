@@ -15,7 +15,7 @@
   -  [osTicket: Creating and Working Tickets](https://github.com/ccollins-21/osTicket-Creating-and-Working-Tickets)
 <h2>📄 Certifications</h2>
 
-- [CompTIA CIOS IT Operations Specialist](https://www.credly.com/badges/8d689171-7fd4-4bbe-a7f5-12cb843ebe09/public_url)
+- [CompTIA IT Operations Specialist - CIOS](https://www.credly.com/badges/8d689171-7fd4-4bbe-a7f5-12cb843ebe09/public_url)
 - [CompTIA Network+ Certification](https://www.credly.com/badges/9bda0333-5e47-4a0b-bdd5-99442c5a9a63/public_url)
 - [CompTIA A+ Certification](https://www.credly.com/badges/4ec65e2a-ab69-4f2e-b881-63ab5901bc5c/public_url)
 - [CourseCareers Information Technology Certificate](https://i.imgur.com/UGS9jnl.png)
